@@ -1,0 +1,7 @@
+# robots.txt for http://www.web305.de
+# file created: 06.06.2016
+User-agent: *
+Disallow: /assets/
+
+# add sitemap
+sitemap: http://www.web305.de/sitemap.xml
